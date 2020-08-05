@@ -6,3 +6,13 @@ En algunos casos las subiré con todo y los csv directamente, y en otros casos, 
 
 ## Assigment2
 El dataset que utilizo es clima.csv
+
+
+## DataViz_Covid&Transportation
+### Los links para los datasets que utilizé. (el de ECOBICI era demasiado pesado como para subirlo a GitHub)
+
+- [Diferencias porcentuales en el tránsito vehicular](https://datos.cdmx.gob.mx/explore/dataset/diferencias-porcentuales-en-el-transito-vehicular-en-la-cdmx/information/?sort=-fecha)
+
+- [Datos abiertos de ecobici](https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data)
+
+- [Datos abiertos del covid de México](https://www.gob.mx/salud/documentos/datos-abiertos-152127)

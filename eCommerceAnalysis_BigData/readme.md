@@ -7,7 +7,7 @@
 The data was retrieved from [eCommerce behavior data from multi category store on Kaggle](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Oct.csv), in our case, we used data from October
 
 ## Data Ingestion
-We uploaded data from october, an named it as ```2019-Oct.csv```
+We uploaded data from october, and named it as ```2019-Oct.csv```
 
 ## Data (Pre)processing
 The preprocessing was done in Google Colab, with pyspark for data aggregation functions, in the document [Preprocessing_with_PySpark_1.ipynb](https://github.com/oswaldochan/projects/blob/master/eCommerceAnalysis_BigData/Preprocessing_with_PySpark_1.ipynb)

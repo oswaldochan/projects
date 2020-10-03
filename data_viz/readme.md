@@ -7,6 +7,7 @@ En algunos casos las subiré con todo y los csv directamente, y en otros casos, 
 ## Assigment2
 El dataset que utilizo es clima.csv
 
+![](https://raw.githubusercontent.com/oswaldochan/projects/master/data_viz/assigment2.png)
 
 ## DataViz_Covid&Transportation
 ### Los links para los datasets que utilizé. (el de ECOBICI era demasiado pesado como para subirlo a GitHub)

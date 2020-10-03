@@ -1,3 +1,5 @@
+cabe destacar que el código para este trabajo fue realizado para una tarea, por lo que no está todo lo depurado que debería.
+
 # GRAPHICAL ANALYSIS
 
 # APPLE

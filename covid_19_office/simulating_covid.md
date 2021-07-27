@@ -22,7 +22,7 @@ These interactions were collected using special devices, which took as valid an 
 
 Below is a graph of the network, where each color indicates a department within the company.
 
-![](C:\Users\oswaldo\OneDrive - Universidad Politécnica de Yucatán\UPY\8 cuatri\Social Network Analysis\p2\plot.png)
+![](https://github.com/oswaldochan/projects/blob/master/covid_19_office/media/plot_bueno.png?raw=true)
 
 The network has 92 nodes and 755 edges.
 
@@ -62,7 +62,7 @@ In this simulation, the states will be defined as follows:
 
 After running the simulation, it is possible to see how the pandemic would spread within the network in approximately less than a month, assuming that each timestep corresponds to one day.
 
-![animacion](C:\Users\oswaldo\OneDrive - Universidad Politécnica de Yucatán\UPY\8 cuatri\Social Network Analysis\p2\animacion.gif)
+![animacion](https://github.com/oswaldochan/projects/blob/master/covid_19_office/media/animacion_buena.gif?raw=true)
 
 As can be seen in the graph of infected individuals, in the first 5 days there would be a large peak, which would cause practically all personnel to be infected during the first week after the first infected person.
 
